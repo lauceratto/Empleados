@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-34cc8": {
+      "hosting": {
+        "Empleados": [
+          "empleados-34cc8"
+        ]
+      }
+    }
+  }
+}
